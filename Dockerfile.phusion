@@ -1,2 +1,2 @@
-FROM phusion/passenger-full:0.9.3
-# FROM phusion/passenger-full:2.5.0
+FROM golang:1.5.1-wheezy
+# FROM golang:1.20.4-bullseye
